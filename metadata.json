@@ -1,0 +1,5 @@
+{
+  "name": "Hero Combat Demo - Step 1",
+  "description": "A hero management interface for a combat verification demo, featuring class-based recruitment, leveling (1-8), and detailed combat attribute management.",
+  "requestFramePermissions": []
+}
